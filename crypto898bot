@@ -1,0 +1,7 @@
+echo "# crypto898bot" >> README.md 
+git init 
+git افزودن README.md 
+git commit -m "first commit" 
+شاخه git -M main 
+git remote add source https://github.com/Crypto894bot/crypto898bot.git
+ git push - تو مبدا اصلی
